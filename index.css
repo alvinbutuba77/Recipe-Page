@@ -1,0 +1,33 @@
+h1{
+    color:#A4A400;
+    background-color: rgb(240,240,240);
+    font-family: Lucida Sans Unicode, Helvetica, Arial;
+    text-align: center;
+    font: 22pt bold;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+}
+
+h2{
+    font: 18pt;
+    text-decoration: underline;
+    color:#A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Arial;
+    background-color: rgb(240,240,240);
+    text-align: left;
+    letter-spacing: 0.25em;
+}
+
+h3{
+    color:#A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Arial;
+    background-color: rgb(240,240,240);
+    text-align: left;
+    letter-spacing: 0.25em;
+}
+
+.food{
+    background-color:#ffffa8 ;
+    
+}
+
